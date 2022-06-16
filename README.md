@@ -1,2 +1,2 @@
 # Sapiens-MoCreatures
-MoCreatures mod for Sapiens, lead by NoobyTheNoobster647
+MoCreatures mod for Sapiens, lead by FoshDosh
